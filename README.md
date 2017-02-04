@@ -1,2 +1,2 @@
 # hello-world
-Just a test repository
+Yet another Hello to the world.
